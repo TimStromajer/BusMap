@@ -1,0 +1,4 @@
+[build]
+  publish = "dist/BusMap"
+[functions]
+  node_bundler = "esbuild"
